@@ -1,1 +1,2 @@
-# kitel_2019_git
+# Kitel Git Project
+jiae kim's first git project of kitel 2019 lecture!!
